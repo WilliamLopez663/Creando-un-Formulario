@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo la creación de un formulario automatizado en 
 
 :three: Creando fórmulas para el IVA  y TOTAL:
 <p align="center">
-<img src="https://raw.githubusercontent.com/WilliamLopez663/Creando-un-Formulario/main/images/formula-iva.PNG">
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Creando-un-Formulario/main/images/formula-iva.PNG">  
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Creando-un-Formulario/main/images/formula-total.PNG">
 </p>
 <br>
